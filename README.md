@@ -1,3 +1,5 @@
+### ZCL_EXCEL_UPLOAD
+
 This class lets you quickly upload excel file into internal table.
 
  In **constructor** pass following parameters:
@@ -35,3 +37,6 @@ This class lets you quickly upload excel file into internal table.
 ```
 lo_excel_uploader->display( ).
 ```
+### Z_EXCELUPLOAD
+Example implementation report for ZCL_EXCEL_UPLOAD.
+Sample Excel file - excel_uploader_sample.xlsx
